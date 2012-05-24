@@ -1,0 +1,62 @@
+This is auctex, produced by makeinfo version 4.0 from auc-tex.texi.
+
+START-INFO-DIR-ENTRY
+* AUCTeX: (auctex).      A much enhanced LaTeX mode for GNU Emacs.
+END-INFO-DIR-ENTRY
+
+
+Indirect:
+auctex-1: 177
+auctex-2: 49426
+auctex-3: 97929
+
+Tag Table:
+(Indirect)
+Node: Top177
+Node: Copying2726
+Node: Introduction4668
+Node: Frequently Used Commands11382
+Node: Quotes12143
+Node: Font Specifiers14326
+Node: Sectioning16182
+Node: Environments20529
+Node: Floats22826
+Node: Itemize-like23981
+Node: Tabular-like24482
+Node: Customizing environments24756
+Node: Advanced Features24982
+Node: Mathematics25657
+Node: Completion27057
+Node: Commenting30481
+Node: Marking and formatting31700
+Node: Outline35412
+Node: Formatting36896
+Node: Commands37527
+Node: Debugging41784
+Node: Checking42981
+Node: Control44275
+Node: Multifile44975
+Node: Parsing Files49426
+Node: I18n53547
+Node: European54069
+Node: Japanese56518
+Node: Automatic58326
+Node: Automatic Global60816
+Node: Automatic Private61978
+Node: Automatic Local63215
+Node: Style Files64288
+Node: Simple Style65082
+Node: Adding Macros66238
+Node: Adding Environments71816
+Node: Adding Other74389
+Node: Hacking the Parser74960
+Node: Installation79031
+Node: History83188
+Node: Projects84668
+Node: Credit94218
+Node: Key Index95737
+Node: Function Index97929
+Node: Variable Index101831
+Node: Concept Index105359
+
+End Tag Table
