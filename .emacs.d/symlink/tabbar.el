@@ -1,2 +1,0 @@
-(load "tabbar")
-(tabbar-mode)
