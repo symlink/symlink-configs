@@ -1,0 +1,92 @@
+# Project Specific #
+####################
+*.pyc
+*.pyo
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+.Python
+*.log
+include/*
+include
+logs
+build
+vendor
+
+# Extensions #
+##############
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+*.scssc
+.hg
+.svn
+.CVS
+.idea
+
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql1%
+*.sqlite
+
+# OS files/directories #
+########################
+.DS_Store
+._.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Editor files/directories #
+############################
+.cache
+.sass-cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
